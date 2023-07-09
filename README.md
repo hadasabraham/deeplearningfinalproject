@@ -1,9 +1,9 @@
-﻿# deeplearningfinalproject
+﻿# Deep Learning Final Project
 
-Welcome to our deep-learning project focused on Pokémon classification! In this project, we have developed a classifier using deep learning techniques (Transfer-Learning and Self-Supervised Learning) to accurately identify and categorize different Pokémon species. We will provide a comprehensive explanation of how to utilize our trained model for Pokémon classification tasks, enabling you to easily leverage the power of deep learning in your own Pokémon-related projects. 
+Welcome to our deep-learning project focused on Pokémon classification! In this project, we have developed a classifier using deep learning techniques (Transfer-Learning and Self-Supervised Learning) to identify and categorize different Pokémon species accurately. We will provide a comprehensive explanation of how to utilize our trained model for Pokémon classification tasks, enabling you to easily leverage the power of deep learning in your own Pokémon-related projects. 
 our collab file (i.e .ipynb) includes a detailed guide on using our Pokémon classifier effectively!
 
-in our project you just need to run the cells, we provide all the work needed to download the pokemon data set.
+in our project you just need to run the cells, we provide all the work needed to download the Pokemon data set.
 
 **we will sum up here :**
 1. **section A** - Environment Building and Database Processing:
